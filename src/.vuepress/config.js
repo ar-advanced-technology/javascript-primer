@@ -1,4 +1,8 @@
+const path = require('path');
+
 module.exports = {
+  base: '/javascript-primer/',
+  dest: path.join(__dirname, '../../docs'),
   title: 'JavaScript 入門',
   themeConfig: {
     // logo: '/ari.png',
