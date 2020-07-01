@@ -5,7 +5,7 @@ module.exports = {
   dest: path.join(__dirname, '../../docs'),
   title: 'JavaScript 入門',
   themeConfig: {
-    // logo: '/ari.png',
+    logo: '/ari.png',
     search: false,
     sidebar: [
       '/overview',
@@ -16,6 +16,8 @@ module.exports = {
           '/practice/startup',
           '/practice/modal',
           '/practice/gallery',
+          '/practice/tab',
+          '/practice/password',
           '/practice/html',
           '/practice/gif',
           '/practice/more',

@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo-javascript.svg
+heroImage: /hero.png
 heroText: JavaScript 入門
 tagline: フロントエンド JavaScript 入門資料
 actionText: Get Started
